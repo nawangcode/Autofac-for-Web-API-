@@ -1,0 +1,12 @@
+C:\R5Code\SoftwareEng\Enterprise\dev\ActiveDirectoryService\ActiveDirectoryService.ResourceAccess\bin\Debug\ActiveDirectoryService.ResourceAccess.dll.config
+C:\R5Code\SoftwareEng\Enterprise\dev\ActiveDirectoryService\ActiveDirectoryService.ResourceAccess\bin\Debug\ActiveDirectoryService.ResourceAccess.dll
+C:\R5Code\SoftwareEng\Enterprise\dev\ActiveDirectoryService\ActiveDirectoryService.ResourceAccess\bin\Debug\ActiveDirectoryService.ResourceAccess.pdb
+C:\R5Code\SoftwareEng\Enterprise\dev\ActiveDirectoryService\ActiveDirectoryService.ResourceAccess\bin\Debug\ActiveDirectoryService.ResourceAccess.dll.CodeAnalysisLog.xml
+C:\R5Code\SoftwareEng\Enterprise\dev\ActiveDirectoryService\ActiveDirectoryService.ResourceAccess\bin\Debug\ActiveDirectoryService.ResourceAccess.dll.lastcodeanalysissucceeded
+C:\R5Code\SoftwareEng\Enterprise\dev\ActiveDirectoryService\ActiveDirectoryService.ResourceAccess\bin\Debug\EntityFramework.dll
+C:\R5Code\SoftwareEng\Enterprise\dev\ActiveDirectoryService\ActiveDirectoryService.ResourceAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\R5Code\SoftwareEng\Enterprise\dev\ActiveDirectoryService\ActiveDirectoryService.ResourceAccess\bin\Debug\EntityFramework.xml
+C:\R5Code\SoftwareEng\Enterprise\dev\ActiveDirectoryService\ActiveDirectoryService.ResourceAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\R5Code\SoftwareEng\Enterprise\dev\ActiveDirectoryService\ActiveDirectoryService.ResourceAccess\obj\Debug\ActiveDirectoryService.ResourceAccess.csprojResolveAssemblyReference.cache
+C:\R5Code\SoftwareEng\Enterprise\dev\ActiveDirectoryService\ActiveDirectoryService.ResourceAccess\obj\Debug\ActiveDirectoryService.ResourceAccess.dll
+C:\R5Code\SoftwareEng\Enterprise\dev\ActiveDirectoryService\ActiveDirectoryService.ResourceAccess\obj\Debug\ActiveDirectoryService.ResourceAccess.pdb

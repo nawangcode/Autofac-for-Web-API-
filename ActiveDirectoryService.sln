@@ -1,0 +1,92 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActiveDirectoryService", "ActiveDirectoryService\ActiveDirectoryService.csproj", "{612A7D29-06AD-4658-8460-C533F03E4935}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActiveDirectoryService.Tests", "ActiveDirectoryService.Tests\ActiveDirectoryService.Tests.csproj", "{3D43291A-5E43-4569-B675-A93A786D08D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActiveDirectoryService.ServiceContracts", "ActiveDirectoryService.ServiceContracts\ActiveDirectoryService.ServiceContracts.csproj", "{46F4EB6E-4D04-49E7-A11C-30EA9EC6BD11}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Host", "Host", "{D34531A4-8E73-475B-B4B7-1C8ECF9022E5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{8A01974A-90F2-4DAD-ABC0-DBAE9560D663}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{F821B945-C8C5-47ED-A72D-CB773C08D7EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActiveDirectoryService.ServiceImplementation", "ActiveDirectoryService.ServiceImplementation\ActiveDirectoryService.ServiceImplementation.csproj", "{6019EA44-2D53-4121-8A6D-9561D4AAAFE4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{70A222AB-B262-4702-B017-E40E06759539}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActiveDirectoryService.ResourceAccess", "ActiveDirectoryService.ResourceAccess\ActiveDirectoryService.ResourceAccess.csproj", "{A9B36478-EA7F-4EB6-BDBC-0D81A20045D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{612A7D29-06AD-4658-8460-C533F03E4935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{612A7D29-06AD-4658-8460-C533F03E4935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{612A7D29-06AD-4658-8460-C533F03E4935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{612A7D29-06AD-4658-8460-C533F03E4935}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D43291A-5E43-4569-B675-A93A786D08D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D43291A-5E43-4569-B675-A93A786D08D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D43291A-5E43-4569-B675-A93A786D08D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D43291A-5E43-4569-B675-A93A786D08D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46F4EB6E-4D04-49E7-A11C-30EA9EC6BD11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46F4EB6E-4D04-49E7-A11C-30EA9EC6BD11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46F4EB6E-4D04-49E7-A11C-30EA9EC6BD11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46F4EB6E-4D04-49E7-A11C-30EA9EC6BD11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6019EA44-2D53-4121-8A6D-9561D4AAAFE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6019EA44-2D53-4121-8A6D-9561D4AAAFE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6019EA44-2D53-4121-8A6D-9561D4AAAFE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6019EA44-2D53-4121-8A6D-9561D4AAAFE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9B36478-EA7F-4EB6-BDBC-0D81A20045D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9B36478-EA7F-4EB6-BDBC-0D81A20045D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9B36478-EA7F-4EB6-BDBC-0D81A20045D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9B36478-EA7F-4EB6-BDBC-0D81A20045D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{612A7D29-06AD-4658-8460-C533F03E4935} = {D34531A4-8E73-475B-B4B7-1C8ECF9022E5}
+		{3D43291A-5E43-4569-B675-A93A786D08D5} = {F821B945-C8C5-47ED-A72D-CB773C08D7EC}
+		{46F4EB6E-4D04-49E7-A11C-30EA9EC6BD11} = {8A01974A-90F2-4DAD-ABC0-DBAE9560D663}
+		{6019EA44-2D53-4121-8A6D-9561D4AAAFE4} = {8A01974A-90F2-4DAD-ABC0-DBAE9560D663}
+		{A9B36478-EA7F-4EB6-BDBC-0D81A20045D3} = {8A01974A-90F2-4DAD-ABC0-DBAE9560D663}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs.rauland.com:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ActiveDirectoryService.Tests\\ActiveDirectoryService.Tests.csproj
+		SccProjectTopLevelParentUniqueName1 = ActiveDirectoryService.sln
+		SccProjectName1 = ActiveDirectoryService.Tests
+		SccLocalPath1 = ActiveDirectoryService.Tests
+		SccProjectUniqueName2 = ActiveDirectoryService\\ActiveDirectoryService.csproj
+		SccProjectTopLevelParentUniqueName2 = ActiveDirectoryService.sln
+		SccProjectName2 = ActiveDirectoryService
+		SccLocalPath2 = ActiveDirectoryService
+		SccProjectUniqueName3 = ActiveDirectoryService.ServiceContracts\\ActiveDirectoryService.ServiceContracts.csproj
+		SccProjectTopLevelParentUniqueName3 = ActiveDirectoryService.sln
+		SccProjectName3 = ActiveDirectoryService.ServiceContracts
+		SccLocalPath3 = ActiveDirectoryService.ServiceContracts
+		SccProjectUniqueName4 = ActiveDirectoryService.ServiceImplementation\\ActiveDirectoryService.ServiceImplementation.csproj
+		SccProjectTopLevelParentUniqueName4 = ActiveDirectoryService.sln
+		SccProjectName4 = ActiveDirectoryService.ServiceImplementation
+		SccLocalPath4 = ActiveDirectoryService.ServiceImplementation
+		SccProjectUniqueName5 = ActiveDirectoryService.ResourceAccess\\ActiveDirectoryService.ResourceAccess.csproj
+		SccProjectTopLevelParentUniqueName5 = ActiveDirectoryService.sln
+		SccProjectName5 = ActiveDirectoryService.ResourceAccess
+		SccLocalPath5 = ActiveDirectoryService.ResourceAccess
+	EndGlobalSection
+EndGlobal

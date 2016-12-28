@@ -1,0 +1,7 @@
+C:\R5Code\SoftwareEng\Enterprise\dev\ActiveDirectoryService\ActiveDirectoryService.ServiceContracts\bin\Debug\ActiveDirectoryService.ServiceContracts.dll
+C:\R5Code\SoftwareEng\Enterprise\dev\ActiveDirectoryService\ActiveDirectoryService.ServiceContracts\bin\Debug\ActiveDirectoryService.ServiceContracts.pdb
+C:\R5Code\SoftwareEng\Enterprise\dev\ActiveDirectoryService\ActiveDirectoryService.ServiceContracts\obj\Debug\ActiveDirectoryService.ServiceContracts.dll
+C:\R5Code\SoftwareEng\Enterprise\dev\ActiveDirectoryService\ActiveDirectoryService.ServiceContracts\obj\Debug\ActiveDirectoryService.ServiceContracts.pdb
+C:\R5Code\SoftwareEng\Enterprise\dev\ActiveDirectoryService\ActiveDirectoryService.ServiceContracts\obj\Debug\ActiveDirectoryService.ServiceContracts.csprojResolveAssemblyReference.cache
+C:\R5Code\SoftwareEng\Enterprise\dev\ActiveDirectoryService\ActiveDirectoryService.ServiceContracts\bin\Debug\ActiveDirectoryService.ServiceContracts.dll.CodeAnalysisLog.xml
+C:\R5Code\SoftwareEng\Enterprise\dev\ActiveDirectoryService\ActiveDirectoryService.ServiceContracts\bin\Debug\ActiveDirectoryService.ServiceContracts.dll.lastcodeanalysissucceeded
